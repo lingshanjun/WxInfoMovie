@@ -1,0 +1,5 @@
+<!--welcome.wxml-->
+<view class="container">
+    <image class="avatar" src="/images/avatar/2.png"></image>
+    <text class="motto">Hello, World</text>
+</view>

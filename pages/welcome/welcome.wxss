@@ -1,0 +1,19 @@
+/* welcome.wxss */
+.container{
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+  background-color: #b3d4db;
+}
+.avatar{
+  width: 200rpx;
+  height: 200rpx;
+  margin-top: 160rpx;
+}
+.motto{
+  margin-top: 100rpx;
+  font-size: 32rpx;
+  font-weight: bold;
+}
