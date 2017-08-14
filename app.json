@@ -1,5 +1,6 @@
 {
   "pages": [
+    "pages/post/postList/list",
     "pages/welcome/welcome"
   ],
   "window": {
